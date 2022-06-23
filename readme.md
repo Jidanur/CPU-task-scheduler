@@ -3,9 +3,10 @@
     Compile-
         make
     Run-
-        ./a3 <numOfCPUs> <S> <fileName>
+        ./a3 <numOfCPUs> <S> <Workload fileName>
 
-
+    S = time to priority boost tasks in lower queues (unit in ms)
+    
     Custom workload file  = "customtasks.txt"
 
 
