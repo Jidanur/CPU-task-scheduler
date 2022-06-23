@@ -13,7 +13,7 @@ Custom workload file  = "customtasks.txt"
 
 
 
- Sample test results- 
+Sample test results- 
 S = 100
 | Type | avg. turnaround(usecs) | avg. response time(usecs) | numOfCPUs |
 | 0    | 375155                 | 21715                     | 1         |
