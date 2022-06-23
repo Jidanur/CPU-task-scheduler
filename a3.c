@@ -1,5 +1,3 @@
-/// MD Jidanur Rahman/// #7895504/////////
-///////3430////// Assignment- 3 //////////
 
 #include<stdio.h>
 #include <stddef.h>
