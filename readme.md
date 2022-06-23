@@ -1,29 +1,19 @@
-/// MD Jidanur Rahman/// #7895504/////////
-///////3430////// Assignment- 3 //////////
 
+# Running the project-
 Compile-
     make
 Run-
     ./a3 <numOfCPUs> <S> <fileName>
 
-//////////////////
+
 Custom workload file  = "customtasks.txt"
-///////////
 
 
-///Question answers---
-* Change in number of CPUs and value of S -
-    As number of CPUs increases turnaround time and response time reduces because tasks doesn't have to wait longer in the queue to get scheduled.
-    on the other hand, if S value decreases we see some change in turnaround time and response time but not significant which differs for different tasks because tasks get scheduled at high priority more often. 
-
-* Effect of S in long running tasks-
-    if value of S changes which means how often we boost our tasks priority, for long running tasks response time or turnaround time doesn't much.
-    Conclusion, its not highly correlated.
-
-//////
 
 
-/// test results
+
+
+# Sample test results- 
 S = 100
 | Type | avg. turnaround(usecs) | avg. response time(usecs) | numOfCPUs |
 | 0    | 375155                 | 21715                     | 1         |
